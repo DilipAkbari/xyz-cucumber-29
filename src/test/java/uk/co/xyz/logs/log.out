@@ -231,3 +231,12 @@
 2020-04-29 00:04:666 INFO       AddCustomerPage :64 - clicking on add custome tab [[ChromeDriver: chrome on WINDOWS (e175bcf8cfd00f4b471f7021449738fa)] -> css selector: button.btn.btn-default]
 2020-04-29 00:04:689 INFO       BrowserSelector :19 - Launching Chrome Browser
 2020-04-29 00:04:124 INFO       BankMangerLoginPage :56 -  Search customer: [[ChromeDriver: chrome on WINDOWS (3e4d8720e08a55004843c6ad1ed85e5b)] -> id: userSelect]
+2020-04-29 18:04:385 INFO       BrowserSelector :19 - Launching Chrome Browser
+2020-04-29 18:04:52 INFO       HomePage :35 -  Click on BankManagerLogin tab: [[ChromeDriver: chrome on WINDOWS (e79e0f16ceae51b00d231f3d35db9488)] -> xpath: //button[contains(text(),'Bank Manager Login')]]
+2020-04-29 18:04:633 INFO       BankMangerLoginPage :43 - add customer link[[ChromeDriver: chrome on WINDOWS (e79e0f16ceae51b00d231f3d35db9488)] -> xpath: //button[contains(text(),'Add Customer')]]
+2020-04-29 18:04:763 INFO       AddCustomerPage :32 -  Enter first name: Vinay in the field [[ChromeDriver: chrome on WINDOWS (e79e0f16ceae51b00d231f3d35db9488)] -> xpath: //input[@placeholder='First Name']]
+2020-04-29 18:04:280 INFO       AddCustomerPage :39 -  Enter last name: Thakor in the field [[ChromeDriver: chrome on WINDOWS (e79e0f16ceae51b00d231f3d35db9488)] -> xpath: //input[@placeholder='Last Name']]
+2020-04-29 18:04:637 INFO       AddCustomerPage :46 -  Enter postcode: W1t 6AB in the field [[ChromeDriver: chrome on WINDOWS (e79e0f16ceae51b00d231f3d35db9488)] -> xpath: //input[@placeholder='Post Code']]
+2020-04-29 18:04:910 INFO       AddCustomerPage :64 - clicking on add custome tab [[ChromeDriver: chrome on WINDOWS (e79e0f16ceae51b00d231f3d35db9488)] -> css selector: button.btn.btn-default]
+2020-04-29 18:04:927 INFO       BrowserSelector :19 - Launching Chrome Browser
+2020-04-29 18:04:925 INFO       BankMangerLoginPage :56 -  Search customer: [[ChromeDriver: chrome on WINDOWS (36b9bcb3a8f22efe780303b46ca49519)] -> id: userSelect]
